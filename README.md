@@ -34,7 +34,8 @@ This chatbot project explores LLM-based search engines and chatbots, leveraging 
 - 💬 **Gradio Interface**: User-friendly interface for seamless interactions with the chatbot.
 
 ### Learnings from the Project
-
 Creating this chatbot highlighted the importance of effective data handling, model integration, and user interface design.
 
 Feel free to explore the projects and provide feedback! 😊
+
+
